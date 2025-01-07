@@ -4,6 +4,10 @@
 
 This project aims to create a detailed 3D simulation of Formula 1 race laps using real telemetry data. By combining data extraction techniques, 3D modeling, and animation, I've developed a system that visualizes a car's movement on a track based on actual race information. This simulation provides insights into racing lines, speed variations, and overall lap performance in a visually engaging format.
 
+
+https://github.com/user-attachments/assets/e58e9e13-45a0-456d-846d-ba15ee98eef3
+
+
 ## Components
 
 ### 1. Data Extraction (Python)
