@@ -1,5 +1,9 @@
 # **F1 Race Simulation Project**
 
+
+https://github.com/user-attachments/assets/94285cf4-a3fd-4fd3-9ce8-a23ce3f09c50
+
+
 ## **Overview**  
 
 This project showcases a **high-fidelity 3D race simulation system**, built to process **real telemetry data** and generate **accurate visualizations of vehicle movement on a track**. By integrating **real-world spatial data, photorealistic rendering, and automation workflows**, I developed a scalable pipeline that reconstructs race laps with **precision and realism**.  
